@@ -1,0 +1,32 @@
+_repo: The-Romany-Rye_422
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+description: "The Romany Rye is a novel by George Borrow, written in 1857.\nThis was\
+  \ the play in progress when the Theatre Royal in Exeter burnt down in 1887\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '422'
+  wikidata: Q7761435
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romanies -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- GITenberg
+title: The Romany Rye
+url: http://www.gutenberg.org/ebooks/422
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Romany_Rye
